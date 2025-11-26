@@ -1,6 +1,8 @@
 Hospital Management Package (Oracle PL/SQL)
 👥 Group Members
-
+Niyonshuti samuel 28329
+Mutabazi darius 28239
+Ishimwe alsene 28429
 
 
 1.Database Tables Creation
